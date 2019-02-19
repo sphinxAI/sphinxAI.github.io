@@ -1,0 +1,6 @@
+graphics.py
+------------
+.. automodule:: ..pySphinx.src.graphics
+    :members:
+    :undoc-members:
+    :show-inheritance:
