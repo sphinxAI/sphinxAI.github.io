@@ -1,7 +1,6 @@
-ContainerImage.py
-------------------
-
+containerImages.py
+==================
 .. automodule:: pySphinx.src.ContainerImages
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:
