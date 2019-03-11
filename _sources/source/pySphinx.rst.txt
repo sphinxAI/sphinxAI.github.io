@@ -1,8 +1,0 @@
-pySphinx
-==================================
-
-.. toctree::
-   :maxdepth: 2
-
-   graphics
-   ContainerImages
