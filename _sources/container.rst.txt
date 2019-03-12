@@ -1,5 +1,5 @@
 container.py
-============
+=========
 .. automodule:: pySphinx.src.container
    :members:
    :undoc-members:
